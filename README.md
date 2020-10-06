@@ -53,6 +53,11 @@
 <td>HTML, CSS, JS, AJAX</td>
 <td align="center">Верстка</td>
 </tr>
+<tr>
+<td><a href="https://from0toweb.github.io/bonus_220v/src/">Бонусня страница 220V</a></td>
+<td>HTML, CSS, JS</td>
+<td align="center">Верстка</td>
+</tr>  
 </tbody>
 </table>
 </font>
