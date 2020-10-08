@@ -1,4 +1,4 @@
-# Михаил Минченко &middot; [![](https://img.shields.io/badge/resume-HH-red)](https://spb.hh.ru/resume/a11195f5ff0811cf5d0039ed1f35337a4e6175)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://t.me/Mike_M_A)  [![](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%BC%D0%B8%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-8051331b8/)  [![](https://img.shields.io/badge/-codepen-%23000000)](https://codepen.io/from0toweb)
+# Михаил Минченко &middot; [![](https://img.shields.io/badge/resume-HH-red)](https://spb.hh.ru/resume/a11195f5ff0811cf5d0039ed1f35337a4e6175)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://t.me/Mike_M_A)  [![](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%BC%D0%B8%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-8051331b8/) 
 
   ### Стек технологий(актуальность на 2020 год):
   - HTML, CSS, SASS
