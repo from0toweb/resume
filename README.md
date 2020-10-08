@@ -57,6 +57,11 @@
 <td><a href="https://from0toweb.github.io/bonus_220v/src/">Бонусня страница 220V</a></td>
 <td>HTML, CSS, JS</td>
 <td align="center">Верстка</td>
+</tr>
+<tr>
+<td><a href="https://github.com/from0toweb/learn_react">Игра X/O по документации React</a></td>
+<td>React</td>
+<td align="center">React</td>
 </tr>  
 </tbody>
 </table>
