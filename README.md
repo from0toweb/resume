@@ -62,6 +62,11 @@
 <td><a href="https://github.com/from0toweb/learn_react">Игра X/O по документации React</a></td>
 <td>React</td>
 <td align="center">React</td>
+</tr> 
+<tr>
+<td><a href="https://from0toweb.github.io/test_cards/test_cards">Карточки товаров</a></td>
+<td>HTML, CSS, JS</td>
+<td align="center">JS</td>
 </tr>  
 </tbody>
 </table>
