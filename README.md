@@ -10,7 +10,7 @@
   - Figma, Avacode
 
 
- ### Мои некоммерческие проекты:
+ ### Мои проекты:
 
 <div class="w3-responsive">
 <font size="12px">
