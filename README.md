@@ -39,7 +39,7 @@
 <td align="center">JS</td>
 </tr>
 <tr>
-<td><a href="https://from0toweb.github.io/glo_js/">Дипломная работа с курса по JS</a></td>
+<td><a href="https://from0toweb.github.io/glo_js/">JS для сайта</a></td>
 <td>JS, CSS</td>
 <td align="center">JS</td>
 </tr>
