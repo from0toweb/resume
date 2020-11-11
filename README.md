@@ -72,7 +72,12 @@
 <td><a href="https://space-x-react.vercel.app/">SpaseX</a></td>
 <td>React</td>
 <td align="center">React</td>
-</tr>    
+</tr>
+<tr>
+<td><a href="https://youthful-agnesi-ac969c.netlify.app/">AutoPlay Slider</a></td>
+<td>React</td>
+<td align="center">React</td>
+</tr> 
 </tbody>
 </table>
 </font>
