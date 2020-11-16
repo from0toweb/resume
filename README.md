@@ -80,7 +80,7 @@
 </tr> 
 <tr>
 <td><a href="https://glo-react.vercel.app/">Заказ еды MrDonald's</a></td>
-<td>React</td>
+<td>React, FireBase, Context</td>
 <td align="center">SPA, React</td>
 </tr> 
 </tbody>
