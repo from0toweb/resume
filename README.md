@@ -78,6 +78,11 @@
 <td>React</td>
 <td align="center">React</td>
 </tr> 
+<tr>
+<td><a href="https://glo-react.vercel.app/">Заказ еды MrDonald's</a></td>
+<td>React</td>
+<td align="center">SPA, React</td>
+</tr> 
 </tbody>
 </table>
 </font>
