@@ -26,13 +26,13 @@
 <tbody>
 <tr>
 <td ><a href="https://from0toweb.github.io/repair-design/src/">Repair Design</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/repair-design">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/repair-design">&#9755;</td>
 <td>HTML, CSS, Sass, Jquery, JS, PHP</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/diplom/src/">Алготрейдинг</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/diplom">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/diplom">&#9755;</td>
 <td>HTML, CSS, Sass, Jquery, JS, PHP</td>
 <td align="center">Вёрстка</td>
 </tr>
@@ -44,25 +44,25 @@
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/glo_js/">JS для сайта</a></td>
-  <td style="text-align: center"><a href="https://github.com/from0toweb/glo_js/tree/diplom">&#9755;</td>
+  <td align="center"><a href="https://github.com/from0toweb/glo_js/tree/diplom">&#9755;</td>
 <td>JS, CSS</td>
 <td align="center">JS</td>
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/JS_Glo/">Heroes</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/JS_Glo/tree/lesson_competition">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/JS_Glo/tree/lesson_competition">&#9755;</td>
 <td>HTML, CSS, JS</td>
 <td align="center">JS</td>
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/2plitki/2plitki/">2 Плитки</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/2plitki">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/2plitki">&#9755;</td>
 <td>HTML, CSS, JS, AJAX</td>
 <td align="center">Верстка</td>
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/bonus_220v/src/">Бонусня страница 220V</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/bonus_220v">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/bonus_220v">&#9755;</td>
 <td>HTML, CSS, JS</td>
 <td align="center">Верстка</td>
 </tr>
@@ -74,31 +74,31 @@
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/test_cards/test_cards">Карточки товаров</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/test_cards">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/test_cards">&#9755;</td>
 <td>HTML, CSS, JS</td>
 <td align="center">JS</td>
 </tr>
 <tr>
 <td><a href="https://space-x-react.vercel.app/">SpaseX</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/spaceX_react">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/spaceX_react">&#9755;</td>
 <td>React</td>
 <td align="center">React</td>
 </tr>
 <tr>
 <td><a href="https://youthful-agnesi-ac969c.netlify.app/">AutoPlay Slider</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/react_test">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/react_test">&#9755;</td>
 <td>React</td>
 <td align="center">React</td>
 </tr>
 <tr>
 <td><a href="https://glo-react.vercel.app/">Заказ еды MrDonald's</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/glo_react/tree/complete">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/glo_react/tree/complete">&#9755;</td>
 <td>React, FireBase, Context</td>
 <td align="center">SPA, React</td>
 </tr>
 <tr>
 <td><a href="https://react-chat.vercel.app/">Чат</a></td>
-<td style="text-align: center"><a href="https://github.com/from0toweb/react_chat">&#9755;</td>
+<td align="center"><a href="https://github.com/from0toweb/react_chat">&#9755;</td>
 <td>React, NodeJs, Express, Socket</td>
 <td align="center">SPA, React</td>
 </tr>
