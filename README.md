@@ -26,7 +26,7 @@
 <tbody>
 <tr>
 <td><a href="https://from0toweb.github.io/repair-design/src/">Repair Design</a></td>
-  <td></td>
+<td><a href="https://github.com/from0toweb/repair-design">&#9755;</td>
 <td>HTML, CSS, Sass, Jquery, JS, PHP</td>
 <td align="center">Вёрстка</td>
 </tr>
