@@ -31,6 +31,7 @@
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/diplom/src/">Алготрейдинг</a></td>
+<td></td>
 <td>HTML, CSS, Sass, Jquery, JS, PHP</td>
 <td align="center">Вёрстка</td>
 </tr>
