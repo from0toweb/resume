@@ -26,6 +26,7 @@
 <tbody>
 <tr>
 <td><a href="https://from0toweb.github.io/repair-design/src/">Repair Design</a></td>
+  <td></td>
 <td>HTML, CSS, Sass, Jquery, JS, PHP</td>
 <td align="center">Вёрстка</td>
 </tr>
@@ -37,51 +38,61 @@
 </tr>
 <tr>
 <td><a href="https://github.com/from0toweb/glo_js">Домашние работы с курса по JS</a></td>
+  <td></td>
 <td>JS</td>
 <td align="center">JS</td>
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/glo_js/">JS для сайта</a></td>
+  <td></td>
 <td>JS, CSS</td>
 <td align="center">JS</td>
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/JS_Glo/">Heroes</a></td>
+  <td></td>
 <td>HTML, CSS, JS</td>
 <td align="center">JS</td>
 </tr> 
 <tr>
 <td><a href="https://from0toweb.github.io/2plitki/2plitki/">2 Плитки</a></td>
+  <td></td>
 <td>HTML, CSS, JS, AJAX</td>
 <td align="center">Верстка</td>
 </tr>
 <tr>
 <td><a href="https://from0toweb.github.io/bonus_220v/src/">Бонусня страница 220V</a></td>
+  <td></td>
 <td>HTML, CSS, JS</td>
 <td align="center">Верстка</td>
 </tr>
 <tr>
 <td><a href="https://github.com/from0toweb/learn_react">Игра X/O по документации React</a></td>
+  <td></td>
 <td>React</td>
 <td align="center">React</td>
 </tr> 
 <tr>
 <td><a href="https://from0toweb.github.io/test_cards/test_cards">Карточки товаров</a></td>
+  <td></td>
 <td>HTML, CSS, JS</td>
 <td align="center">JS</td>
 </tr>
 <tr>
 <td><a href="https://space-x-react.vercel.app/">SpaseX</a></td>
+  <td></td>
 <td>React</td>
 <td align="center">React</td>
 </tr>
 <tr>
 <td><a href="https://youthful-agnesi-ac969c.netlify.app/">AutoPlay Slider</a></td>
+  <td></td>
 <td>React</td>
 <td align="center">React</td>
 </tr> 
 <tr>
 <td><a href="https://glo-react.vercel.app/">Заказ еды MrDonald's</a></td>
+  <td></td>
 <td>React, FireBase, Context</td>
 <td align="center">SPA, React</td>
 </tr> 
