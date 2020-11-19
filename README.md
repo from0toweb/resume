@@ -18,6 +18,7 @@
 <thead>
 <tr class="w3-white">
 <th width="40%">Проект</th>
+<th>Исходники</th>
 <th width="60%">Технологии</th>
 <th>Категория</th>
 </tr>
