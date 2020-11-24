@@ -102,6 +102,12 @@
 <td>React, NodeJs, Express, Socket</td>
 <td align="center">SPA, React</td>
 </tr>
+<tr>
+<td><a href="https://react-test2-beta.vercel.app/">Новости</a></td>
+<td align="center"><a href="https://github.com/from0toweb/react_test2">&#9755;</td>
+<td>React, Redux</td>
+<td align="center">SPA, React</td>
+</tr>
 </tbody>
 </table>
 </font>
