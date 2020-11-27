@@ -36,9 +36,15 @@
 <td>HTML, CSS, Sass, Jquery, JS, PHP</td>
 <td align="center">Вёрстка</td>
 </tr>
+ <tr>
+<td><a href="https://from0toweb.github.io/html_test/html_test/">Авторизация</a></td>
+<td align="center"><a href="https://github.com/from0toweb/html_test">&#9755;</td>
+<td>HTML, CSS, Sass, JS</td>
+<td align="center">Вёрстка</td>
+</tr>  
 <tr>
 <td><a href="https://github.com/from0toweb/glo_js">Домашние работы с курса по JS</a></td>
-  <td></td>
+<td></td>
 <td>JS</td>
 <td align="center">JS</td>
 </tr>
