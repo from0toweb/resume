@@ -114,6 +114,12 @@
 <td>React, Redux</td>
 <td align="center">SPA, React</td>
 </tr>
+ <tr>
+<td><a href="https://react-quiz-588fd.web.app/">Квиз</a></td>
+<td align="center"><a href="https://github.com/from0toweb/react_quiz">&#9755;</td>
+<td>React, Redux</td>
+<td align="center">SPA, React</td>
+</tr>
 </tbody>
 </table>
 </font>
