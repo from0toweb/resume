@@ -4,7 +4,7 @@
 
 - HTML, CSS, SASS
 - JQery, JavaScript
-- React
+- React, React Native
 - Gulp, Webpack
 - Git, Gitlab
 - Webstorm, VSCode
